@@ -1,8 +1,8 @@
-Vet Clinic Database
-This is a project that displays some data of animals, done with relational database. 
+## Vet Clinic Database
+### This is a project that displays some data of animals, done with relational database. 
 
-Getting Started
-This repository includes files with plain SQL that can be used to recreate a database:
+### Getting Started
+### This repository includes files with plain SQL that can be used to recreate a database:
 
 Use schema.sql to create all tables.
 Use data.sql to populate tables with sample data.
